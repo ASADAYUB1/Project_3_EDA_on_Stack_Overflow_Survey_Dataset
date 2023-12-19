@@ -1,1 +1,5 @@
 # Project_3_EDA_on_Stack_Overflow_Survey_Dataset
+
+Stack Overflow is the premier online community for developers, offering a platform to learn, share expertise, and advance careers. Every month, over 50 million professional and aspiring programmers visit Stack Overflow to troubleshoot coding issues, enhance skills, and explore job prospects. Collaborating with businesses, Stack Overflow assists in comprehending, hiring, engaging, and empowering developers globally. Their offerings encompass developer marketing, technical recruitment, market research, and enterprise knowledge sharing. Explore their business solutions further for additional insights.
+
+Each year since 2011, Stack Overflow asked the developer community about everything from their favorite technologies to their job preferences. In the year 2020, this survey focused on being more representative of the diversity of programmers worldwide and it was taken by approximately 65,000 people. I will be performing a complete exploratory data analysis on this dataset.
